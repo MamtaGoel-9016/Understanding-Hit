@@ -1,1 +1,1 @@
-print("This is model prediction feature")
+print("This is model of predicted feature")
